@@ -11,8 +11,7 @@ Paymentsense is a plugin that extends WooCommerce, allowing you to take payments
 
 == Description ==
 
-Paymentsense is a plugin that extends WooCommerce, allowing you to take payments via Paymentsense. The plugin provides integration with the
-Paymentsense Hosted and Paymentsense Direct payment methods.
+Paymentsense is a plugin that extends WooCommerce, allowing you to take payments via Paymentsense. The plugin provides integration with the Paymentsense Hosted and Paymentsense Direct payment methods.
 
 == Installation ==
 
@@ -71,13 +70,13 @@ The Paymentsense plugin can be installed by any of the following three ways:
 4. Set the values for the "Gateway MerchantID" and "Gateway Password" settings according to their respective values in the Paymentsense Merchant Management System (MMS).
 5. Optionally, set the rest of the settings as per your needs.
 6. Click the "Save changes" button.
-7. Enable the WooCommerce Secure Checkout (see WooCommerce Secure Checkout)
+7. Enable the WooCommerce Secure Checkout (see WooCommerce Secure Checkout).
 
 = WooCommerce Secure Checkout =
 
 The usage of the Paymentsense Direct Gateway involves the following additional steps:
 
-1. Make sure SSL/TLS is configured on your PCI-DSS certified server
+1. Make sure SSL/TLS is configured on your PCI-DSS certified server.
 2. Login into the admin area of your WordPress website.
 3. Go to "WooCommerce" -> "Settings" -> "Checkout".
 4. Check the "Force secure checkout" checkbox in the "Checkout process" section.
